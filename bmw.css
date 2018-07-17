@@ -22,6 +22,7 @@ font-family: 'Anton', sans-serif;
 	font-weight:bold;
 	text-align:center;
 	padding-top:15px;
+	letter-spacing:3px;
 }
 #nawigacja
 {
@@ -34,6 +35,12 @@ font-family: 'Anton', sans-serif;
 	text-align:right;
 	margin-top:2px;
 	height:2454px;
+}
+ul{
+	text-align: left;
+	/*list-style-type:decimal;*/
+	list-style-image:url("IMG=BMW/" );
+	
 }
 #content
 {
@@ -54,6 +61,7 @@ font-family: 'Anton', sans-serif;
 	height:2454px;
 	padding:2px;
 	margin-top:2px;
+	text-align:center;
 	
 }
 #yt
@@ -95,7 +103,7 @@ font-family: 'Anton', sans-serif;
 	margin-top:30px;
 	width:100px;
 	height:100px;
-	background-color:silver;
+	background-color:#666666;
 	margin-left:10px;
 	text-align:center;
 }
