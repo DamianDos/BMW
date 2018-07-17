@@ -1,0 +1,77 @@
+body{
+background-color:black;
+margin-left:auto;
+margin-right:auto;
+width:1500px;
+font-family: 'Anton', sans-serif;
+}
+
+#container
+{
+	
+}
+#logo
+{
+	
+	background-color:#05203B;
+	color:#999191;
+	width:1500px;
+	height:50px;
+	float:left;
+	font-size:30px;
+	font-weight:bold;
+	text-align:center;
+	padding-top:15px;
+}
+#nawigacja
+{
+	float:left;
+	background-color:#01010D;/*263E6E;*/
+	color:#BAB40B;
+	width:150px;
+	height:700px;
+	font-size:20px;
+	margin-top:2px;
+	height:2454px;
+}
+#content
+{
+	float:left;
+	background-color:#080E17;
+	width:1200px;
+	min-height:700px;
+	margin:2px;
+	padding:10px;
+	
+}
+#prawy
+{
+	float:left;
+	background-color:#01010D;
+	color:white;
+	width:120px;
+	height:2454px;
+	padding:2px;
+	margin-top:2px;
+	
+}
+#yt
+{
+	width:100px;
+	height:80px;
+	background-color:red;
+}
+#fb
+{
+	margin-top:30px;
+	width:100px;
+	height:80px;
+	background-color:blue;
+}
+#stopka
+{
+	clear:both;
+	background-color:red;
+	text-align:center;
+	font-weight:bold;
+}
